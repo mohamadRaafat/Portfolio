@@ -10181,3 +10181,9 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
   margin-bottom: 0.5rem;
 }
+
+@media (max-width: 992px) {
+  .smaller_font {
+    font-size: 0.7em
+  }
+}
