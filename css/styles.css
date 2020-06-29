@@ -10186,4 +10186,7 @@ form .row:first-child .floating-label-form-group {
   .smaller_font {
     font-size: 0.7em
   }
+  .more_smaller_font {
+    font-size: 0.6em
+  }
 }
